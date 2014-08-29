@@ -16,6 +16,8 @@ public class Main {
 		System.out.println("Drobny dopisek");
 		
 		System.out.println("Jeszcze jeden, spróbujemy push spod Eclipse");
+		
+		System.out.println("Eclipse > Team > Commit > Commit and push");
 
 	}
 
