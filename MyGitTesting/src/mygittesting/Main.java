@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("Totalny reset");
 		
 		System.out.println("Czy to wreszcie działa?");
+		
+		System.out.println("Drobny dopisek");
 
 	}
 
