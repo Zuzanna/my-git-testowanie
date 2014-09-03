@@ -22,6 +22,7 @@ public class Main {
 		System.out.println("Po kombinacjach z ustawieniem usera");
 		
 		System.out.println("Utworzyłam branch1 i zrobiłam na nią checkout");
+		System.out.println("Działam na branch1");
 
 	}
 
