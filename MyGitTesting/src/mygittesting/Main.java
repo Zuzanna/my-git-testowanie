@@ -22,6 +22,8 @@ public class Main {
 		System.out.println("Po kombinacjach z ustawieniem usera");
 		
 		System.out.println("A teraz checkout na mastera i dopiszę się tu");
+		
+		System.out.println("test po kombinacjach z Javą");
 
 	}
 
