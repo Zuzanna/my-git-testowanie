@@ -24,6 +24,8 @@ public class Main {
 		System.out.println("A teraz checkout na mastera i dopiszę się tu");
 		
 		System.out.println("test po kombinacjach z Javą");
+		
+		System.out.println("Wyeksportowane do GitHub");
 
 	}
 
