@@ -26,6 +26,8 @@ public class Main {
 		System.out.println("test po kombinacjach z Javą");
 		
 		System.out.println("Wyeksportowane do GitHub");
+		
+		System.out.println("Próbuję ustawić na sztywno w Eclipse widok drzewka branchy");
 
 	}
 
