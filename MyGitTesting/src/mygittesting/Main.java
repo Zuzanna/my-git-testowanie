@@ -30,6 +30,7 @@ public class Main {
 		System.out.println("Próbuję ustawić na sztywno w Eclipse widok drzewka branchy");
 		
 		System.out.println("Wywaliłam branch1 lokalny");
+		System.out.println("Utworzyłam branch2");
 
 	}
 
